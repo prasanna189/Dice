@@ -1,0 +1,3 @@
+import tkinter
+pk = tkinter.Tk()
+pk.mainloop()
